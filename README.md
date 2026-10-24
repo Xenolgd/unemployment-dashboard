@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿# Unemployment Rate Dashboard
 
 This project is a Streamlit dashboard that analyses unemployment rate trends 
@@ -74,3 +75,7 @@ requirements.txt
 - Interpretations for each main analysis.
 - Data quality and limitations section.
 - Key insights and next steps.
+=======
+# unemployment-dashboard
+Interactive Streamlit dashboard analyzing French unemployment rate trends by year, sex, age group and education level.
+>>>>>>> f805248c3029b7d3d4fe55a03bff1e2a227c2d78
