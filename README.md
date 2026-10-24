@@ -8,6 +8,10 @@ in France using open data from data.gouv.fr.
 Why do unemployment rates in France differ by sex, age group, education level, 
 and unemployment duration?
 
+## Live dashboard
+
+[Open the Streamlit dashboard](https://unemployment-dashboard-ngodg24v8f2l3mhmbcu4un.streamlit.app/)
+
 ## Data source
 
 - data.gouv.fr — Activité, emploi et chômage, séries longues  
