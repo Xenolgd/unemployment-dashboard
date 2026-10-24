@@ -8,6 +8,15 @@ in France using open data from data.gouv.fr.
 Why do unemployment rates in France differ by sex, age group, education level, 
 and unemployment duration?
 
+## Storyboard
+
+1. Hook and context: introduce unemployment in France and the research question.
+2. Overview: present headline indicators and unemployment trends over time.
+3. Comparisons: explore differences by sex, age group, education level and unemployment duration.
+4. Interactive exploration: use filters to compare selected groups and periods.
+5. Data quality and limitations: explain validation checks and interpretation limits.
+6. Conclusion: summarize the main findings and suggest further analyses.
+
 ## Live dashboard
 
 [Open the Streamlit dashboard](https://unemployment-dashboard-ngodg24v8f2l3mhmbcu4un.streamlit.app/)
