@@ -769,14 +769,24 @@ with col3:
 
 st.info(
     f"""
-    The dataset comes from [data.gouv.fr — Activité, emploi et chômage, séries longues]({DATA_SOURCE_URL}) 
-    and was cleaned before analysis. Missing values and duplicates were checked. 
-    Category codes were documented to make age groups easier to understand.
+    The dataset comes from
+    [data.gouv.fr — Activité, emploi et chômage, séries longues]({DATA_SOURCE_URL})
+    and was cleaned before analysis. The metrics above report missing values
+    and duplicate rows in the cleaned, filtered dataset; they do not measure
+    all possible data quality issues.
 
+    Methodological limitation: the dashboard calculates unweighted averages
+    of the selected published unemployment rates, rather than
+    population-weighted rates. Some selections may combine total categories
+    and overlapping subgroups. The displayed averages should therefore not
+    be interpreted as official national unemployment rates.
 
-    This dashboard shows differences and trends between groups. It does not prove 
-    direct causality. Results may be affected by economic crises, changes in survey 
-    methods and labour market policies.
+    The analysis describes observed differences and trends; it does not
+    establish causal relationships. Comparisons over time may also be
+    affected by changes in survey methods and population coverage.
+
+    A future improvement would be to select consistent statistical series
+    for each chart, keeping totals separate from subgroups.
     """
 )
 
