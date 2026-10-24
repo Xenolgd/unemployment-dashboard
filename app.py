@@ -75,7 +75,7 @@ st.sidebar.markdown(
     📅 **Year:** Second Year of Engineering Studies  
     📧 **Email:** [alexandre.le-galliard@efrei.net](mailto:alexandre.le-galliard@efrei.net)  
     💼 **LinkedIn:** [My LinkedIn profile](https://www.linkedin.com/in/alexandre-le-galliard)  
-    💻 **GitHub:** [My GitHub](https://github.com/Xenolgd)
+    💻 **GitHub:** [My GitHub](https://github.com/Xenolgd/unemployment-dashboard)
 
 
     📚 **Course:** Data Analysis & Visualization  
