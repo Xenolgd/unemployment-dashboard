@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-﻿# Unemployment Rate Dashboard
+# Unemployment Rate Dashboard
 
 This project is a Streamlit dashboard that analyses unemployment rate trends 
 in France using open data from data.gouv.fr.
