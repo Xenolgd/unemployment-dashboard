@@ -63,6 +63,17 @@ The cleaned dataset is saved here:
 ```text
 data/processed/unemployment_clean.csv
 ```
+## Methodological limitations
+
+The dashboard calculates unweighted averages of the selected published
+unemployment rates, rather than population-weighted rates.
+
+Some selections may combine total categories and overlapping subgroups.
+The displayed averages should therefore not be interpreted as official
+national unemployment rates.
+
+The analysis describes observed differences and trends; it does not
+establish causal relationships.
 
 ## Project structure
 
